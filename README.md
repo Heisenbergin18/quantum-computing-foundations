@@ -7,7 +7,7 @@
 A hands-on portfolio documenting my journey into quantum computing, with a focus on bridging physical chemistry concepts with quantum algorithms and optimization techniques.
 
 ## 🎓 About Me
-**MSc in Physical Chemistry** exploring quantum computing applications for molecular simulation and electronic structure problems. This repository showcases practical implementations from the Qbraid QuSyn specialization and independent projects.
+**MSc in Physical Chemistry** exploring quantum information science, simulation and computing applications for molecular simulation and electronic structure problems. This repository showcases practical implementations from the Qbraid QuSyn specialization and independent projects.
 
 ## 🚀 Featured Projects
 
