@@ -1,0 +1,28 @@
+# Core Quantum Computing
+qiskit==0.44.1
+qiskit-ibm-runtime==0.13.0
+qiskit-aer==0.12.0
+qiskit-ibm-provider==0.6.0
+
+# Quantum Chemistry (Future-ready)
+openfermion==1.5.0
+openfermionpyscf==0.5
+
+# Scientific Computing Core
+numpy==1.23.5
+scipy==1.10.1
+pandas==1.5.3
+
+# Visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+plotly==5.14.1
+
+# Development & Notebooks
+jupyter==1.0.0
+notebook==6.5.4
+ipython==8.12.0
+
+# Code Quality
+black==23.3.0
+pylint==2.17.4
